@@ -1,0 +1,14 @@
+C:\Felipe\Programacion\C#\acceso_datos\bin\Debug\net8.0\acceso_datos.exe
+C:\Felipe\Programacion\C#\acceso_datos\bin\Debug\net8.0\acceso_datos.deps.json
+C:\Felipe\Programacion\C#\acceso_datos\bin\Debug\net8.0\acceso_datos.runtimeconfig.json
+C:\Felipe\Programacion\C#\acceso_datos\bin\Debug\net8.0\acceso_datos.dll
+C:\Felipe\Programacion\C#\acceso_datos\bin\Debug\net8.0\acceso_datos.pdb
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\acceso_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\acceso_datos.AssemblyInfoInputs.cache
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\acceso_datos.AssemblyInfo.cs
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\acceso_datos.csproj.CoreCompileInputs.cache
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\acceso_datos.dll
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\refint\acceso_datos.dll
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\acceso_datos.pdb
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\acceso_datos.genruntimeconfig.cache
+C:\Felipe\Programacion\C#\acceso_datos\obj\Debug\net8.0\ref\acceso_datos.dll
